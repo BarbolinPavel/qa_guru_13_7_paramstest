@@ -1,7 +1,8 @@
 package tests;
 
 public enum EnumsParams {
-    IRON("Утюги"), VACUUM("Пылесосы бытовые");
+    IRON("Утюги"),
+    VACUUM("Пылесосы бытовые");
 
     public final String technic;
 
